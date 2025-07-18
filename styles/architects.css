@@ -185,6 +185,16 @@ color: #727272;
     filter: grayscale(100%);
 }
 
+footer{
+    max-width: 1440px;
+    height: 100px;
+    background-color: #FFF4E7;
+    padding-top: 40px;
+    border-bottom: 8px;
+    margin: 40px auto;
+    text-align: center;
+}
+
 /* responsive media query for small device */
 @media screen and (max-width:576px) {
     .navbar,
